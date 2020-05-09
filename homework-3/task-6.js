@@ -1,4 +1,4 @@
-console.log("Шестое задание");
+ console.log("Шестое задание");
 let name = "Саша";
 let lastname = "Даншин";
 

@@ -1,4 +1,4 @@
-console.log("Седьмое задание");
+ console.log("Седьмое задание");
 let digit = Math.ceil(Math.random() * 5);
 console.log(digit);
 

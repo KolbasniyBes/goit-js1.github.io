@@ -1,4 +1,4 @@
-console.log("Пятое задание");
+ console.log("Пятое задание");
 let rnd1 = Math.random();
 let rnd2 = Math.random();
 
