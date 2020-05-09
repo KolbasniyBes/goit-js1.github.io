@@ -6,4 +6,4 @@ let a4 = 5 / 3;
 console.log(a1)
 console.log(a2)
 console.log(a3)
-console.log(a4)
+console.log(a4) 

@@ -10,4 +10,4 @@ txt = "true";
 console.log(typeof str);
 console.log(typeof num);
 console.log(typeof flag);
-console.log(typeof txt);
+console.log(typeof txt); 

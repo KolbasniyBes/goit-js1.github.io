@@ -6,4 +6,4 @@ if (digit == 1) console.log("Один");
 if (digit == 2) console.log("Два");
 if (digit == 3) console.log("Три");
 if (digit == 4) console.log("Четыре");
-if (digit == 5) console.log("Пять");
+if (digit == 5) console.log("Пять"); 

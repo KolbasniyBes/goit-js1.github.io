@@ -5,3 +5,4 @@ if (day % 2 == 0) {
 } else {
     console.log(day % 2 + "euro");
 }
+ 

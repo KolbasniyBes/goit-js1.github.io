@@ -18,4 +18,4 @@ failure = "true";
 let bandi;
 bandi = false;
 const obstacle;
-obstacle = false;
+obstacle = false; 

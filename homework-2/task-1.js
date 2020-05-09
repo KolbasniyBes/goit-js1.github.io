@@ -6,5 +6,5 @@ let k4 = parseInt("qwqweeewq");
 console.log(k1);
 console.log(k2);
 console.log(k3);
-console.log(k4);
+console.log(k4); 
 
